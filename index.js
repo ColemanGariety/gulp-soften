@@ -10,6 +10,6 @@ module.exports = function soften(size) {
     } catch (e) {
       console.warn('Error: ' + e.message)
     }
-    callback(null, file);
+    callback(null, file)
   })
 }
