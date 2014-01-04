@@ -16,7 +16,9 @@
     "convert",
     "tabs",
     "spaces",
-    "spacify"
+    "spacify",
+    "gulpplugin",
+    "gulpfriendly"
   ],
   "author": "Jackson Gariety",
   "license": "BSD-2-Clause",
