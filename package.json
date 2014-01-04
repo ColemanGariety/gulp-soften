@@ -1,0 +1,36 @@
+{
+  "name": "gulp-soften",
+  "version": "0.0.1",
+  "description": "A gulp task that converts hard tabs to spaces.",
+  "main": "index.js",
+  "scripts": {
+    "test": "gulp test"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/JacksonGariety/gulp-soften.git"
+  },
+  "keywords": [
+    "gulp",
+    "soften",
+    "convert",
+    "tabs",
+    "spaces",
+    "spacify"
+  ],
+  "author": "Jackson Gariety",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/JacksonGariety/gulp-soften/issues"
+  },
+  "homepage": "https://github.com/JacksonGariety/gulp-soften",
+  "dependencies": {
+    "map-stream": "0.0.4"
+  },
+  "devDependencies": {
+    "gulp": "~3.2.2",
+    "should": "~2.1.1",
+    "gulp-jshint": "~1.3.4",
+    "gulp-mocha": "~0.2.0"
+  }
+}
